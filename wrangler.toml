@@ -1,0 +1,8 @@
+name = "doj-digital-command1"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "doj-digital-command"
+database_id = "23750cbc-e5a8-461d-ab6c-04136abfc486"
